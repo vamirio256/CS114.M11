@@ -41,4 +41,5 @@
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Nhận diện hoa
 * **File:** [Final_CNN.ipynb](https://github.com/vamirio256/CS114.M11/blob/main/Final_CNN.ipynb) 
+* **Link Data:** [Flower_dataset](https://drive.google.com/file/d/1Xy_2KfmRwL_Fp8w31JLBm2h862TZfpb9/view?usp=sharing)
 
