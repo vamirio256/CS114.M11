@@ -6,7 +6,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC - MACHINE LEARNING</b></h1>
+<h1 align="center"><b>CS114.M11 - MÁY HỌC - MACHINE LEARNING</b></h1>
 
 [![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/caohungphu/CS114.L21)
 [![GitHub contributors](https://img.shields.io/github/contributors/caohungphu/CS114.L21?style=flat-square)](https://github.com/caohungphu/CS114.L21/graphs/contributors)
@@ -40,5 +40,5 @@
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Nhận diện hoa
-* **File:** Final_CNN.ipynb 
+* **File:** [Final_CNN.ipynb](https://github.com/vamirio256/CS114.M11/blob/main/Final_CNN.ipynb) 
 
