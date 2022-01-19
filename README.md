@@ -32,13 +32,13 @@
 | 2 | **Ths. Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn* |
 
 ## THÀNH VIÊN NHÓM
-| STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
+| STT | Họ tên | MSSV | Vai trò | Email | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Cao Hưng Phú | 19520214 | Nhóm trưởng | *19520214@gm.uit.edu.vn* | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
 | 2 | Nguyễn Thành Công | 19521294 | Thành viên | *19521294@gm.uit.edu.vn* | [cong.troller](https://www.facebook.com/cong.troller) |
-| 3 | Trần Đình Đồng | 19521216 | Thành viên | *19521216@gm.uit.edu.vn* | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
+| 3 | Trần Đình Đồng | 17520352 | Thành viên | *17520352@gm.uit.edu.vn* | [Đình Đồng](https://www.facebook.com/dodizzz) |
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Nhận diện hoạ
-* **Thư mục:** [FinalProject](FinalProject)
+* **File:** Final_CNN.ipynb 
 
