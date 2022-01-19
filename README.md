@@ -36,7 +36,7 @@
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Cao Hưng Phú | 19520214 | Nhóm trưởng | *19520214@gm.uit.edu.vn* | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
 | 2 | Nguyễn Thành Công | 19521294 | Thành viên | *19521294@gm.uit.edu.vn* | [cong.troller](https://www.facebook.com/cong.troller) |
-| 3 | Trần Đình Đồng | 17520352 | Thành viên | *17520352@gm.uit.edu.vn* | [Đình Đồng](https://www.facebook.com/dodizzz) |
+| 3 | Trần Đình Đồng | 17520352 | Thành viên | *17520352@gm.uit.edu.vn* |[Đình Đồng](https://www.facebook.com/dodizzz) |
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Nhận diện hoạ
