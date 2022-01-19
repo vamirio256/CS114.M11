@@ -1,0 +1,5 @@
+.DS_Store
+data.zip
+model.h5
+model_aug.h5
+resnet_model.h5
