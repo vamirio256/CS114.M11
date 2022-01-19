@@ -34,7 +34,7 @@
 ## THÀNH VIÊN NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Facebook |
 | :---: | --- | --- | --- | --- | --- |
-| 1 | Nguyễn Như Long | 19521790 | Nhóm trưởng | *19521790@gm.uit.edu.vn* | [Long Như Nguyễn](https://www.facebook.com/profile.php?id=100010702758894) |
+| 1 | Nguyễn Như Long | 19521790 | Nhóm trưởng | *19521790@gm.uit.edu.vn* | [Long Nguyễn Như](https://www.facebook.com/profile.php?id=100010702758894) |
 | 2 | Nguyễn Quốc Quân | 19520871 | Thành viên | *19520871@gm.uit.edu.vn* | [Nguyễn Quân](https://www.facebook.com/profile.php?id=100009406876835) |
 | 3 | Trần Đình Đồng | 17520352 | Thành viên | *17520352@gm.uit.edu.vn* |[Đình Đồng](https://www.facebook.com/dodizzz) |
 
